@@ -4,7 +4,7 @@ MATH-ME is a game to learn and master a simple multiplication table.
 
 ## Where to find it?
 
-Just click on [math-me](https://innawebdev.offyoucode.co.uk/math-me/) and play! 
+Just click on [math-me](https://yedzinovich.github.io/math-me/) and play! 
 
 ## Built With
 
